@@ -1,3 +1,6 @@
 [submodule "quarkdb"]
 	path = quarkdb
 	url = https://github.com/byujiang/quarkdb-docker
+[submodule "v2ray"]
+	path = v2ray
+	url = https://github.com/byujiang/v2ray-docker
