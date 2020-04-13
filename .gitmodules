@@ -4,3 +4,6 @@
 [submodule "v2ray"]
 	path = v2ray
 	url = https://github.com/byujiang/v2ray-docker
+[submodule "xcache"]
+	path = xcache
+	url = https://github.com/byujiang/xcache-docker
