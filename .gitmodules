@@ -1,0 +1,3 @@
+[submodule "quarkdb"]
+	path = quarkdb
+	url = https://github.com/byujiang/quarkdb-docker
